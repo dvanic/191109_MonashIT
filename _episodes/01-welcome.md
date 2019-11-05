@@ -21,8 +21,13 @@ keypoints:
 
 > ## Getting to know each other
 >
-> If the trainer has chosen an [icebreaker question]({{ page.training_site }}/icebreakers/index.html),
-> participate by writing your answers in the course's shared notes.
+> Something Surprising
+> Find someone who shares something surprising with you (e.g. your pet has the same name, or you both brush your teeth in the shower). Put your “surprise” similarity into the Etherpad when you come back from break and vote on the most surprising.
+> We really want you to get to know your fellow learners and become comfortable interacting. There will be several interactive activities in the next two days. Let’s all start bonding now.
+> 
+> 
+>
+> 
 {: .challenge}
 
 ## Code of Conduct
@@ -32,11 +37,6 @@ to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applie
 [the Code of Conduct]({{ site.coc }}) to familiarise yourself with it.
 
 ## Introductions
-
-> Introductions set the stage for learning.
->
-> --- Tracy Teal, Executive Director, The Carpentries
-{: .testimonial}
 
 Hello everyone, and welcome to the the Carpentries
 instructor training.  We're very pleased to have you with us.
